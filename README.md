@@ -61,5 +61,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 This project utilizes methods and techniques commonly used in image processing and noise reduction research. Special thanks to the contributors and researchers who have developed these techniques.
-
-```
