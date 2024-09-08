@@ -1,6 +1,3 @@
-Great details! Here’s a draft README.md for your project based on the information you provided:
-
-```markdown
 # Periodic Noise Reduction in Image Processing
 
 Periodic noise can significantly impact image quality, making it challenging to extract meaningful information. This repository provides methods for detecting and mitigating periodic noise in images, which is crucial in various applications, including medical imaging, surveillance, and remote sensing.
